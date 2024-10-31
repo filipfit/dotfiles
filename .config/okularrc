@@ -1,0 +1,34 @@
+[Desktop Entry]
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Fragebogen_zur_Sozialversicherung_01_2024-3.pdf
+File10[$e]=/usr/share/doc/archiso/README.profile.rst
+File2[$e]=$HOME/Downloads/Filip-Fitzermann_Fragebogen_Sozialversicherung.pdf
+File3[$e]=$HOME/Downloads/ECAM22110B-303066.pdf
+File4[$e]=$HOME/Downloads/documents.pdf
+File5[$e]=$HOME/Downloads/libble-de_91237.pdf
+File6[$e]=$HOME/Downloads/36-2024 Elbeka 125.pdf
+File7[$e]=$HOME/Downloads/attachment1.2.pdf
+File8[$e]=$HOME/.config/rofi/launchers/type-1/shared/fonts.rasi
+File9[$e]=$HOME/Downloads/PPR-Tutorium/2_PPR_2024_10_16_Softwaremodellierung.pdf
+Name1[$e]=Fragebogen_zur_Sozialversicherung_01_2024-3.pdf
+Name10[$e]=README.profile.rst
+Name2[$e]=Filip-Fitzermann_Fragebogen_Sozialversicherung.pdf
+Name3[$e]=ECAM22110B-303066.pdf
+Name4[$e]=documents.pdf
+Name5[$e]=libble-de_91237.pdf
+Name6[$e]=36-2024 Elbeka 125.pdf
+Name7[$e]=attachment1.2.pdf
+Name8[$e]=fonts.rasi
+Name9[$e]=2_PPR_2024_10_16_Softwaremodellierung.pdf

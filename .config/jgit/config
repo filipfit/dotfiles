@@ -1,0 +1,6 @@
+[filesystem "Arch Linux|17.0.12|/dev/sdd2"]
+	timestampResolution = 3113 nanoseconds
+	minRacyThreshold = 5796 microseconds
+[filesystem "Amazon.com Inc.|11.0.24|/dev/sdd2"]
+	timestampResolution = 3000 nanoseconds
+	minRacyThreshold = 5286 microseconds

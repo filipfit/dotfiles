@@ -1,0 +1,15 @@
+[Default Applications]
+application/x-gnome-saved-search=nemo.desktop;
+image/webp=imv.desktop;
+inode/directory=nemo.desktop;
+text/plain=org.gnome.gedit.desktop;
+x-scheme-handler/http=brave-browser.desktop
+x-scheme-handler/https=brave-browser.desktop
+text/html=brave-browser.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+x-scheme-handler/irc=brave-browser.desktop
+[Added Associations]
+image/webp=imv.desktop;
+text/plain=org.gnome.gedit.desktop;
+
