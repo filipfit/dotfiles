@@ -1,0 +1,3032 @@
+pacseek
+lpstat -p
+hyprshade
+reboot
+clear
+cd b
+pwd
+cmake ..
+clear && make && ./SIMD
+cmake ..
+clear && make && ./SIMD
+clear && make && ./SIMD
+clear
+cd ..
+git status
+git add *
+git status
+git add world.txt
+git status
+git commit -m "Added CLI functionality with same capabilites as the old version"
+git push
+reboot
+hyprshade --help
+hyprshade on --help
+hyprshade on blue-light-filter
+history
+poweroff
+reboot
+update
+cd Downloads
+scp fitzerma@anemoi.rbi.cs.uni-frankfurt.de:~/Listen.py ./
+cd Origin
+scp fitzerma@anemoi.rbi.cs.uni-frankfurt.de:~/Listen_funktion.py ./
+scp fitzerma@anemoi.rbi.cs.uni-frankfurt.de:~/Bin�re_Suche.py ./
+scp fitzerma@anemoi.rbi.cs.uni-frankfurt.de:~/Binaere_Suche.py ./
+scp fitzerma@anemoi.rbi.cs.uni-frankfurt.de:~/dateien_lesen.py ./
+scp fitzerma@anemoi.rbi.cs.uni-frankfurt.de:~/Funktion.py:~/TEST.py:~/Zahlentrick.py:~/Windchill.py ./
+scp fitzerma@anemoi.rbi.cs.uni-frankfurt.de:~/\{Funktion.py,TEST.py,Zahlentrick.py,Windchill.py\} ./
+cd b
+cmake ..
+clear && make && ./SIMD
+clear && make && ./SIMD
+lear
+clear
+clear && make && ./SIMD
+clear && make && ./SIMD
+clear && make && ./SIMD
+clear && make && ./SIMD
+clear && make && ./SIMD
+cd ..
+git status
+git add *
+git status
+git commit -m "game_of_life.cpp now measures time to evolve a random 10000x10000 world"
+git push
+cd b
+cmake ..
+clear && make && ./SIMD
+pwd
+git status
+git diff CMakeLists.txt
+git add *
+git commit -m "removed -fno-tree-vectorize"
+git push
+git stash
+git clone git@github.com:filipfit/HLRA-Praktikum-2024.git
+code HLRA-Praktikum-2024
+code HLRA-Praktikum-2024
+btop
+git switch projekt-simon
+killall code
+btop
+btop
+reboot
+git clone git@github.com:filipfit/HLRA-Praktikum-2024.git
+code HLRA-Praktikum-2024
+git switch GOL-improved
+gcc --version
+git clone git@github.com:filipfit/HLRA-Praktikum-2024.git
+cd HLRA-Praktikum-2024
+git switch projekt-simon
+git clone git@github.com:filipfit/HLRA-Praktikum-2024.git
+cd HLRA-Praktikum-2024
+git switch projekt-simon
+history
+history --help
+history -a
+clear
+poweroff
+./satpaper.sh
+hyprshade on blue-light-filter
+history
+hostname
+history 100
+history 20
+history all
+history -a
+fc --help
+history 0
+history 1
+clear
+history 1
+history 0
+nvim .zshrc
+history
+nvim .zshrc
+history 0
+c;ear
+history
+history
+poweroff
+hyprshade on blue-light-filter
+poweroff
+./satpaper.sh
+killall Discord
+reboot
+checkupdates
+update
+systemctl suspend
+killall Discord
+killall Discord
+btop
+systemctl suspend
+killall Discord
+poweroff
+./satpaper.sh
+suspend
+suspend --help
+man suspend
+nvim .zshrc
+suspend
+hyprctl monitors
+killall Discord
+susp
+suspend
+reboot
+./satpaper.sh
+hyprshade on blue-light-filter
+update
+yeet waybar
+clear
+fastfetch
+fastfetch
+suso
+suspend
+hyprshade on blue-light-filter
+poweroff
+killall Discord
+reboot
+./satpaper.sh
+hyprshade on blue-light-filter
+poweroff
+./satpaper.sh
+fastfetch
+suspend
+suspend
+suspend
+exit
+suspend && exit
+nvim .zshrc
+reboot
+yay -Qe
+yeet brightnessctl
+updatew
+update
+yay -Syyu
+yay -Qe
+man strace
+man strace
+hconf
+te
+fewj
+weifjlweifj
+clear
+fjeij
+wev
+wev
+hconf
+hconf
+history
+clear
+hconf
+killall Discord
+killall Discord
+killall Discord
+reboot
+poweroff
+checkupdates
+man networkmanager
+NetworkManager --version
+NetworkManager --help
+update
+reboot
+update
+killall Discord
+hyprshade on blue-light-filter
+poweroff
+suspend
+suspend
+killall Discord
+killall Discord
+hyprshade on blue-light-filter
+poweroff
+poweroff
+./satpaper.sh.
+./satpaper.sh
+poweroff
+cc --help
+man cc
+checkupdates
+update
+./satpaper.sh
+killall Discord
+reboot
+hyprshade on blue-light-filter
+./satpaper.sh
+suspend
+pwd
+cd Audio
+ls -A
+ls -a
+yt-dlp -x 'https://www.youtube.com/watch?v=STFh4k84xJ4'
+yeet warpinator
+pacseek
+clear
+warpinator
+reboot
+hyp
+hyprshade on blue-light-filter
+hyprshade off blue-light-filter
+hyprshade off
+hyprshade on blue-light-filter
+grimblast area copy
+grimblast copy area
+grimblast copy area
+pwoeroff
+poweroff
+update
+./satpaper.sh
+hyprctl activeworkspace -j | jq '.id'
+hyprctl activeworkspace -j | jq '.id'
+hyprctl activeworkspace 
+hyprctl activeworkspace -j
+hyprctl activeworkspace -j | jq '.monitorID'
+hyprctl activeworkspace -j | jq '.monitorID'
+grimblast copy area
+grimblast copy area
+grimblast copy area
+grimblast copy area
+grimblast copy area
+grimblast copy area
+cut --help
+man cut
+./satpaper.sh
+poweroff
+hyprshade on blue-light-filter
+updater
+update
+suspend
+poweroff
+update
+poweroff
+./satpaper.sh
+hyprctl --help
+hyprctl --help | grep workspace
+hyprctl --help | grep change
+hyprctl
+hyprctl
+hyprctl kill
+hyprctl togglespecialworkspace
+hyprctl workspace special:magic
+hyprctl activeworkspace -j | jq '.monitorID'
+hyprctl dispatch workspace 2
+hyprctl dispatch workspace 1
+hyprctl dispatch workspace 0
+hyprctl clients
+hyprctl dispatch workspace 2
+hyprctl dispatch workspace 1
+hyprctl dispatch workspace 21
+chmod +x special-workspace-swap.sh
+./special-workspace-swap.sh
+hconf
+hyprctl monitors | grep active
+hyprctl activeworkspace -h
+clear
+hyprctl activeworkspace
+hyprctl activeworkspace
+suspend
+pacseek
+pipx -h
+nvim .zshrc
+echo $PATH
+pip install spotdl
+pacman -S python-spotdl
+sudo pacman -S python-spotdl
+pacseek
+pipx spotdl
+clear
+pipx install spotdl
+nvim 
+find // Berserker
+sudo find // Berserker
+sudo find // 'Kevin Penkin - Berserker Bam'
+ls -a ~/Audio/Tower-Of-God
+spotdl --help | grep dont-filter-results
+spotdl --help
+spotdl --help
+spotdl --help | grep download
+spotdl 'https://open.spotify.com/album/3jtDEn92wfMZOk5kZZLBga' --output '~/Audio/Tower-Of-God/{title}.{output-ext}'
+spotdl download 'https://open.spotify.com/album/3jtDEn92wfMZOk5kZZLBga?si=SnjSdkaGQ0m0eTDPCaHn3Q' --output '~/Audio/Tower-Of-God/{title}.{output-ext}'
+cd Audio
+cd Tower-Of-God
+spotdl download --dont-filter-results 'https://open.spotify.com/album/3jtDEn92wfMZOk5kZZLBga?si=SnjSdkaGQ0m0eTDPCaHn3Q'
+spotdl --dont-filter-results 'https://open.spotify.com/album/3jtDEn92wfMZOk5kZZLBga?si=SnjSdkaGQ0m0eTDPCaHn3Q'
+spotdl --dont-filter-results download 'https://open.spotify.com/album/3jtDEn92wfMZOk5kZZLBga?si=SnjSdkaGQ0m0eTDPCaHn3Q'
+sudo find // 'Berserker Bam'
+sudo find / 'Berserker Bam'
+nvim .zshrc
+sudo grub-reboot 3
+reboot now
+reboot
+suspend
+hyprshade on blue-light-filter
+cd Tower-Of-Godode .
+code .
+code .
+cargo new Rust-Game-of-Life
+cargo run
+cleqar
+clear
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+poweroff
+./satpaper.sh
+update
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+clear
+cargo run
+clear
+cargo run
+cargo run
+clear
+cargo run
+cargo run
+clear
+cargo run
+clear
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+cargo run
+poweroff
+hyprshade on blue-light-filter
+grimblast copy area
+grim
+grim --help
+grim help
+man grim
+grim -h
+slurp -h
+slurp
+slurp | grim
+cd Pictures
+grim -h
+slurp | grim -g
+slurp | grim -g
+slurp
+grim -g '1,81 2558x1358'
+yeet grimblast
+which grimblast
+clear
+yeet grimblast-git
+slurp | grim -g
+grim -g | slurp
+slurp -h
+slurp -d
+yay -R grimblast-git
+grim -g $(slurp -d)
+slurp -d
+grim -g "$(slurp -d)"
+grim -h
+./satpaper.sh
+select -h
+select
+select(.focused)
+poweroff
+./satpaper.sh
+update
+history | grep slurp
+grim -g "$(slurp -d)"
+poweroff
+suspend
+suspend
+reboot
+killall Discord
+echo $WAYLAND_DISPLAY
+echo $XDG_CURRENT_DESKTOP
+yay -Q | grep pipewire
+yay -Q | grep wireplumber
+yay -Q | grep portal
+yeet xdg-desktop-portal-hyprland
+pacseek
+yay -Q | grep xdg-desktop-portal
+yeet xdg-desktop-portal
+hconf
+reboot
+hyprctl clients
+pacseek
+pacseek
+hconf
+hyprctl clients
+clear
+hyprctl clients
+hconf
+killall Discord
+reboot
+killall Discord
+hcon
+hconf
+pacseek
+yay -Q | grep discord
+pip install jupyterlab
+pacseek
+fastfetch
+jupyter notebook
+jupyter notebook
+pip install notebook
+pacseek
+pacseek
+hyprctl clients
+youtube-music --help
+youtube-music -h
+nvim
+pipx --help
+transformers
+pipx uninstall transformers
+jupyter notebook
+python -m venv huggingface-test
+python -m venv v-env
+source v-env/bin/activate
+jupyter notebook
+pip freeze
+pip freeze | grep transf
+jupyter notebook
+pwd
+python -m venv v-env
+source v-env/bin/activate
+jupyter notebook
+which jupyter
+pip freeze
+pip install jupyterlab
+which jupyter
+pip uninstall jupyterlab
+clear
+jupyter --help
+jupyter --runtime-dir
+pip instyll i\ykernel
+pip instyll ipykernel
+pip install ipykernel
+python -m ipykernel install --user --name huggingface
+ pip install transformers
+jupyter notebook
+pacseek
+hyprctl clients
+pid
+btop
+killall Discord
+btop
+killall vesktop
+suspend
+poweroff
+killall vesktop
+killall Discord
+reboot
+update
+update
+suspend
+hyprshade on blue-light-filter
+poweroff
+update
+suspend
+pacseek
+pacseek
+sudo pacman -S alsa-lib mesa libx11 libxrandr libxi libxcursor libxinerama
+sudo pacman -S wayland-devel libxkbcommon-devel wayland-protocols-devel
+pacseek
+pacseek
+ls -a
+cd Pictures
+cd Dow
+pacseek
+cd Programming/raylib-game
+git clone --depth 1 https://github.com/raysan5/raylib.git raylib
+cd raylib/src
+cd ..
+mkdir build && cd build
+cd ..
+ls -a
+cd build
+cd ..
+cd build
+cmake -DUSE_WAYLAND=ON -DBUILD_SHARED_LIBS=ON ..
+make
+sudo make install
+cd ..
+cd examples
+make PLATFORM=PLATFORM_DESKTOP
+cd core
+./core_2d_camera
+pacseek
+cc --help
+man cc
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+./a.out
+nvom
+nvim
+nvim Programming
+nvim Programming/raylib-game
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+pwd
+nvim Programming/raylib-game
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+pwd
+suspend
+ffprobe --help
+./satpaper.sh
+suspend
+hyprshade on blue-light-filter
+nvim Programming/raylib-game
+poweroff
+./satpaper.sh
+reboot
+nvim
+suspend
+suspend
+killall Vesktop
+killall vesktop
+killall electron
+killall Discord
+zellij
+nvim Programming/raylib-game
+nvim Programming/raylib-game
+cd Programming/raylib-game
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+ls -a
+./a.out
+nvim Programming/raylib-game
+code Programming/raylib-game
+suspend
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+update
+update
+pacseek
+reflector --country 'Germany'
+reflector --country 'Germany' --save '/etc/pacman.d/mirrorlist' --protocol https --latest 5
+sudo reflector --country 'Germany' --save '/etc/pacman.d/mirrorlist' --protocol https --latest 5
+clear
+update
+nvim /etc/xdg/reflector/reflector.conf
+sudo nvim /etc/xdg/reflector/reflector.conf
+systemctl enable reflector.service
+killall Discord
+suspend
+pacseek
+pacseek anki
+pacseek
+pulse
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+clear
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+clear
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+poweroff
+Hyprland
+which Hyprland
+pacman -Syyu
+sudo pacman -Syyu
+Hyprland
+pacseek
+Hyprland
+pacman -S hyprland
+sudo pacman -S hyprland
+yeet hyprland
+yeet hyprshade
+yeet hyprland
+pacman -S hyprland
+sudo pacman -S hyprland
+Hyprland
+pacseek
+reboot
+pacseek
+suspend
+hyprshade on blue-light-filter
+pacseek
+hyprshade on blue-light-filter
+pacseek
+hyprshade on blue-light-filter
+killall Discord
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+i
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc game.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+poweroff
+./satpaper.sh
+nvim
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+fzf / raylib
+fzf -h
+fzf
+fzf
+suspend
+suspend
+killall Discord
+w
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+yay -Q | grep webview
+pacseek
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+clear
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+poweroff
+update
+pacseek
+node --version
+suspend
+killall Discord
+pacseek
+poweroff
+./satpaper.sh
+hyprshade on blue-light-filter
+killall Discord
+suspend
+w
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+cc test.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -lfftw3f && ./a.out
+poweroff
+killall Discord
+killall Discord
+nvim .zshrc
+windows
+hyprshade on blue-light-filter
+update
+pacseek
+pacseek
+poweroff
+poweroff
+hyprshade on blue-light-filter
+poweroff
+hyprshade on blue-light-filter
+git clone git@github.com:texttechnologylab/DockerUnifiedUIMAInterface.git
+pacseek
+yeet intellij-idea-community-edition
+nvim .zshrc
+pacseek
+fzf
+pacseek
+yeet intellij-idea-community-edition
+yay -S intellij-idea-community-edition-4:2024.1.4-1
+pacseek
+pacseek
+downgrade intellij-idea-community-edition-4:2024.1.4-1
+sudo downgrade intellij-idea-community-edition-4:2024.1.4-1
+pacseek
+downgrade intellij-idea-community-edition
+sudo downgrade intellij-idea-community-edition
+killall Discord
+suspend
+poweroff
+./satpaper.sh
+hyprctl clients
+pacseek
+xclipboard
+yay -Q | grep clip
+pacseek
+pacseek
+xclip
+pacseek
+killall Discord
+pacseek
+windows
+pacseek
+yeet zoom
+pacseek
+pacseek
+nvim .config/Scripts/clipboard-sync.sh
+pacseek
+notify
+nvim .zshrc
+cd .config/Scripts
+chmod +x clipboard-sync.sh
+./clipboard-sync.sh watch
+clipboard-sync.sh watch
+./clipboard-sync.sh watch()
+./clipboard-sync.sh watch()
+nvim clipboard-sync.sh
+./clipboard-sync.sh watch()
+nvim clipboard-sync.sh
+clipsync
+chmod +x .config/Scripts/clipboard-sync
+nvim .zsh
+nvim .zshrc
+clipsync 
+nvim .zshrc
+clipsync 
+clipsync watch
+chmod +x clipsync
+clipsync watch
+clipsync watch()
+clipsync watch()\
+kill()
+clipnotify
+clipnotify
+clipnotify --help
+clipnotify -h
+clipnotify -h
+clipsync watch()\
+kill()
+clipsync wathc
+clipsync watch
+clipsync watch()
+clipnotify
+clipsync watch()
+btop
+hconf
+btop
+btop
+hconf
+hconf
+wl-clip-persist --clipboard 'regular'
+wl-clip-persist --help
+clipsync watch()
+clipsync watch()
+btop
+hconf
+killall Discord
+wl-clip-persist --clipboard 'regular'
+hconf
+btop
+hconf
+copyq --help
+copyq
+reboot
+btop
+copyq
+copyq
+hcon
+hconf
+nohup copyq
+poweroff
+killall Discord
+hyprshade on blue-light-filter
+yeet clipnotify
+poweroff
+update
+fastfetch
+suspend
+hypershade on blue-light-filter
+hyprshade on blue-light-filter
+watch --help
+watch(1)
+watch 1
+windows
+hyprshade on blue-light-filter
+poweroff
+./satpaper.sh
+./satpaper.sh
+./satpaper.sh
+update
+./satpaper.sh
+reboot
+./satpaper.sh
+yay -Q | satpaper
+killall Discord
+killall Discord
+poweroff
+hyprshade on blue-light-filter
+nvim satpaper.sh
+nvim satpaper.sh
+./satpaper.sh
+pwoeroff
+poweroff
+killall Discord
+suspend
+poweroff
+hyprshade on blue-light-filter
+killall Discord
+poweroff
+update
+update
+suspend
+poweroff
+poweroff
+hyprshade on blue-light-filter
+reboot
+hyprshade on blue-light-filter
+killall Discord
+poweroff
+downgrade intellij-idea-community-edition
+sudo downgrade intellij-idea-community-edition
+poweroff
+killall Discord
+yay -Q | grep maven
+pacseek
+killall Discord
+killall Discord
+grim -g "$(slurp -d)"
+grim -g "$(slurp -d)"
+grimblast copy area
+pacseek
+grimblast copy area
+grimblast copy area
+mvn clean install
+mvn clean install
+poweroff
+poweroff
+./satpaper.sh
+hyprshade on blue-light-filter
+hyprshade off
+killall Discord
+hyprshade off
+hyprshade on blue-light-filter
+update
+pacseek
+pacseek
+ls -al
+ls -a
+poweroff
+mvn org.apache.uima:uimaj-maven-plugin:generate
+./satpaper.sh
+killall Discord
+maven clean build
+mvn clean build
+mvn clean build
+mvn clean compile
+mvn clean build
+mvn clean compile
+mvn clean compile
+mvn clean compile
+mvn clean compile
+mvn clean compile
+mvn clean compile
+poweroff
+update
+suspend
+suspend
+./satpaper.sh
+reboot
+hyprshade on blue-light-filter
+poweroff
+update
+suspend
+reboot
+./satpaper.sh
+killall Discord
+suspend
+killall Discord
+reboot
+reboot
+suspend
+suspend
+grimblast copy area
+grimblast copy area
+reboot
+hyprctl clients
+hconf
+logout
+suspend
+killall Discord
+poweroff
+suspend
+update
+pacseek
+pacseek
+update
+pacseek
+vesktop
+pacseek
+pacseek
+reboot
+./satpaper.sh
+reboot
+reboot
+mvn org.apache.uima:uimaj-maven-plugin:generate
+mvn clean install
+mvn clean install
+mvn clean install
+reboot
+killall Discord
+hyprshade on blue-light-filter
+mvn clean install
+hconf
+hconf
+yeet zellij
+hconf
+hyprshade on blue-light-filter
+hconf
+wl-clip-persist --clipboard 'regular'
+pacman -Q | grep wl-clip
+hconf
+hyprctl clients
+pacman -Q | grep x-clip
+pacseek
+xclip --help
+xclip
+xclip
+hconf
+btop
+btop
+mvn clean install
+mvn clean install
+mvn clean install
+mvn clean install
+mvn clean build
+mvn clean install
+mvn clean install
+poweroff
+killall Discord
+killall Discord
+reboot
+poweroff
+hyprshade on blue-light-filter
+suspend
+poweroff
+magick --helop
+magick --help
+reboot
+update
+yay -Syyu
+hyprctl clients
+fzf
+fzf
+fzf
+obsidian
+which obsidian
+which obsidian
+which obsidian
+hyprctl clients
+killall Discord
+reboot
+pacseek
+cd Programming
+mkdir Picture-Stitching
+code Picture-Stitching
+poetry --help
+poetry new Picture-Stitching
+code Picture-Stitching
+fzf
+fzf virtualenvs
+fzf
+fzf
+poetry add opencv-python
+poetry install
+poetry config
+poetry config --help
+poetry config --list
+poetry config
+poetry config virtalenvs.in-project=true
+poetry config virtualenvs.in-project=true
+poetry config virtualenvs.in-project=true
+poetry config --help
+poetry config virtualenvs.in-project true
+poetry install
+poetry config --list
+poetry install
+poetry run
+poetry run --help
+poetry shell
+emulate bash -c '. /home/filip/Programming/Picture-Stitching/.venv/bin/activate'
+python picture_stitching/main.py
+python picture_stitching/main.py
+hconf
+btop
+poweroff
+hyprshade on blue-light-filter
+update
+killall Discord
+poweroff
+hyprshade on blue-light-filter
+/bin/python3 /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/zsh/envVars.txt
+poetry add numpy
+poetry run picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+/bin/python /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/zsh/envVars.txt
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run python picture_stitching/main.py
+poetry run dev
+poetry install
+poetry run dev
+poetry run dev
+poetry run dev
+poetry run dev
+poetry install
+poetry run dev
+poetry run dev
+poetry run dev
+pwoeroff
+poweroff
+hyprshade on blue-light-filter
+poweroff
+suspend
+killall Discord
+fzf
+killall Discord
+killall Discord
+reboot
+sudo fdisk -l
+btop
+pacseek
+pacseek
+pacman -Q | grep udisks
+udisksctl
+pacman -Q | grep gnome-disk
+sudo fdisk -l
+sudo fdisk -l
+udisksctl -h
+udisksctl mount -h
+udisksctl mount -b /dev/sde1
+gpg -verify 
+cd Downloads
+gpg -verify archlinux-x86_64.iso archlinux-x86_64.iso.sig
+gpg -verify archlinux-x86_64.iso.sig archlinux-x86_64.iso
+cd Downloads
+gpg archlinux-x86_64.iso.sig
+gpg --recv-keys 3E80CA1A8B89F69CBA57D98A76A5EF9054449A5C
+gpg archlinux-x86_64.iso.sig
+python3
+cd Downloads
+sha224sum archlinux-x86_64.iso 
+sha256sum archlinux-x86_64.iso 
+[ sha256sum archlinux-x86_64.iso -eq 1652f3cee1b9857742123d392bb467bc5472ecd59a977bd6e17b7c379607b20c ]
+test -h
+test 1 1
+test 1
+test --help
+if [ sha256sum archlinux-x86_64.iso -eq 1652f3cee1b9857742123d392bb467bc5472ecd59a977bd6e17b7c379607b20c ]; then echo 'Are equal'\
+\
+\
+\
+
+if [ sha256sum archlinux-x86_64.iso -eq 1652f3cee1b9857742123d392bb467bc5472ecd59a977bd6e17b7c379607b20c ]; thenecho 'Are equal'
+if [ sha256sum archlinux-x86_64.iso -eq 1652f3cee1b9857742123d392bb467bc5472ecd59a977bd6e17b7c379607b20c ]; then\
+echo "Are equal"\
+else\
+echo "Are not"\
+fi
+sha256sum archlinux-x86_64.iso
+pacman -Q | grep ventoy
+pacman -Q | grep exfatprogs
+pacman -Q | grep exfat-utils
+pacman -Si exfat-utils
+pacman -Qi exfat-utils
+pacman -Sii exfat-utils
+pacseek
+pacseek
+sudo fdisk -l
+ventoy --help
+ventoy /dev/sde
+ventoy -i /dev/sde
+umount /dev/sde
+umount /dev/sde1
+ventoy -i /dev/sde
+sudo ventoy -i /dev/sde
+udiskie
+udiskie --help
+pac
+pacseek
+pacseek
+reboot
+reboot
+pacseek
+pacseek
+reboot
+pacseek
+pacsek
+pacseek
+hyprpm update
+pacseek
+hyprpm update
+hyprpm update -h
+hyprpm update -v
+hyprpm update
+hyprpm update
+hyprpm add https://github.com/shezdy/hyprsplit
+hyprpm enable hyprsplit
+killall Discord
+hyprctl workspaces
+hyprctl workspaces
+hyprctl workspaces
+hyprctl workspaces
+hconf
+hyprctl workspaces
+hconf
+hyprpm disable hyprsplit
+hyprpm --help
+hyprpm remove https://github.com/shezdy/hyprsplit
+hyprpm list
+hyprpm add https://github.com/KZDKM/Hyprspace\
+hyprpm enable Hyprspace
+hyprctl overview:toggle
+hconf
+reboot
+hyprpm list
+hyprpm enable Hyprspace
+hconf
+pacman -Q | grep gtk
+pacman -Q | grep gnome
+df -h
+df -h
+hyprshade on blue-light-filter
+history
+reboot
+./satpaper.sh
+hyprshade on blue-light-filters
+hyprshade on blue-light-filter
+poweroff
+update
+reboot
+hyprctl client
+hyprctl clients
+hyprctl clients
+code $(fzf)
+hconf
+reboot
+hyprctl clients
+reboot
+pacseek
+i3 --help
+i3
+fzf
+fzf
+fzf
+fzf /
+fzf
+sudo fzf
+reboot
+killall Discord
+update
+killall Discord
+poweroff
+poweroff
+hyprshade on blue-light-filter
+poweroff
+code .
+poetry init
+poetry install
+poetry init
+poetry add beautifulsoup4
+poetry add arrow
+poetry add pandas
+/bin/python /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/zsh/envVars.txt
+reboot
+hyprshade on blue-light-filter
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-22,S02E22,787645"
+hyprctl clients
+update
+killall Discord
+poetry add jupyter
+/bin/python /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/zsh/envVars.txt
+poweroff
+pacseek
+cd Downloads
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-1,S01E01,345364"
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-2,S01E02,283699"
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-3,S01E03,283655"
+cd taka-historia
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-6,S01E06,283941"
+cd Downloads
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-4,S01E04,283798"
+cd taka-historia
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-5,S01E05,343034"
+zellij
+pacman -Q | grep playwright
+poetry add playwright
+playwright install
+/bin/python /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/printEnvVariablesToFile.py /home/filip/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/zsh/envVars.txt
+playwright install-deps
+poetry remove playwright
+killall Discord
+cups
+hyprctl clients
+killall Discord
+hyprctl clients
+hyprctl kill
+btop
+pacseek
+apcseek
+pacseek
+pacseek
+pacseek
+sensors-detect
+sudo sensors-detect
+sensors
+killall Discord
+reboot
+./satpaper.sh
+reboot
+poweroff
+hyprshade on blue-light-filter
+poweroff
+pacseek
+downgrade cups
+sudo downgrade cups
+sudo systemctl status cups.service
+sudo systemctl restart --now cups.service
+sudo systemctl status cups.service
+sudo systemctl status cups.service
+sudo systemctl status cups-lpd.socket
+poweroff
+./satpaper.sh
+update
+pacseek
+deno upgrade
+sudo deno upgrade
+sudo deno upgrade rc
+reboot
+poweroff
+hyprshade on blue-light-filter
+update
+hconf
+btop
+pacman -Q | grep Hyprland
+pacman -Q | grep hypr
+pacseek
+yeet hyprshade
+yeet grimblast-git
+killall Discord
+hconf
+yeet hyprland
+pacseek
+btop
+reboot
+echo $XDG_CURRENT_DESKTOP
+echo $XDG_SESSION_TYPE
+cat hyprlock.conf
+btop
+btop
+nemo .config/hypr
+cd .config/hypr
+rm hyprland.conf
+mv hyprland-DISABLED.conf hyprland.conf
+ls -a
+hconf
+pacseek
+hyprpm list
+hyprpm help
+hyprpm remove hyprspace
+hyprpm help
+hyprpm list
+hyprpm remove Hyprspace
+clear
+hconf
+pacseek
+pacseek
+reboot
+btop
+hconf
+btop
+btop
+update
+echo $XDG_RUNTIME_DIR
+hconf
+btop
+pacman -Q | grep nvidia
+downgrade nvidia
+sudo downgrade nvidia
+yay -Sy hyprland-git
+yeet hyprland
+clear
+yay -Sy hyprland-git
+yay -Sy hyprutils
+yay -Sy hyprutils
+yay -Sy hyprutils-git
+clear
+pacman -Q | grep hyprutils
+clear
+yay -Sy hyprland-git
+pacman -Q | grep hyprland
+yay -Sy hyprland-git
+pacman -Q | grep hyprland
+clear
+reboot
+btop
+downgrade hyprland
+pacman -Q | grep hyprland
+sudo downgrade hyprland-git
+sudo downgrade hyprland
+btop
+btop
+btop
+yeet hyprland-git
+pacseek
+pacseek
+sudo downgrade hyprland
+clear
+sudo fzf Hyprland.desktop
+sudo fzf
+cat obsidian-git-sync/Linux/Create\ Custom\ Desktop\ File\ Entry.md
+Hyprland
+nvim .cache/hyprland/hyprlandCrashReport116.txt
+Hyprland
+pacseek
+Hyprland
+sudo downgrade hyprland
+sudo downgrade hyprland
+sudo downgrade hyprland
+Hyprland
+sudo downgrade hyprland
+sudo downgrade nvidian
+sudo downgrade nvidia
+ping google.com
+sudo downgrade nvidia
+update
+sudo downgrade nvidia
+Hyprland
+fastfetch
+pacman -Q | grep linux
+sudo downgrade linux
+sudo downgrade nvidia
+reboot
+btop
+hconf
+pacseek
+hyprshade on blue-light-filter
+sudo fzf
+cat /usr/share/wayland-sessions/hyprland.desktop
+btop
+fastfetch
+pacman -Q | grep nvidia
+clear
+poweroff
+mvn clean compile exec:java -Dexec.mainClass="org.texttechnologylab.DockerUnifiedUIMAInterface.DUUIComposer"
+mvn clean compile exec:java -Dexec.mainClass="org.texttechnologylab.DockerUnifiedUIMAInterface.DUUIComposer"
+mvn clean compile exec:java -Dexec.mainClass="org.texttechnologylab.DockerUnifiedUIMAInterface.DUUIComposer"
+mvn install
+mvn clean compile exec:java -Dexec.mainClass="org.texttechnologylab.DockerUnifiedUIMAInterface.DUUIComposer"
+git clone git@github.com:texttechnologylab/DockerUnifiedUIMAInterface.git
+pacseek
+pacseek
+pacseek
+rofi -show drun
+rofi -help
+pkill --help
+hconf
+hconf
+rofi --help
+rofi --help | grep config
+rofi -show window
+rofi -show window
+rofi -show filebrowser
+find Downloads
+cat .config/rofi/config.rasi
+rofi -dump-config
+rofi -dump-config > .config/rofi/config.rasi
+sudo rofi -dump-config > .config/rofi/config.rasi
+sudo rofi -dump-config > ~/.config/rofi/config.rasi
+lsof
+lsof --help
+lsof .config/rofi
+ clear
+sudo rofi -dump-config > ~/.config/rofi/config.rasi
+sudo rofi -dump-config >> ~/.config/rofi/config.rasi
+sudo rofi -dump-config >> ~/.config/rofi/config.rasi
+cd .config/rofi
+rofi -dump-config > .config/rofi/config.rasi
+rofi -dump-config > config.rasi
+sudo rofi -dump-config > config.rasi
+sudo ((rofi -dump-config) > (config.rasi))
+sudo (rofi -dump-config) > (config.rasi)
+sudo (rofi -dump-config > config.rasi)
+sudo #(rofi -dump-config > config.rasi)
+sudo $(rofi -dump-config > config.rasi)
+rofi -dump-config > config.rasi
+su
+nvim .config/rofi/config.rasi
+cat .config/rofi/config.rasi
+yeet
+pacman -Q wofi
+pacman -Qi wofi
+yeet wofi
+pacman -Qdtq
+pacman -Qi obsidian
+pacman -Qi discord
+mvn clean compile exec:java -Dexec.mainClass="org.texttechnologylab.DockerUnifiedUIMAInterface.DUUIComposer"
+poweroff
+killall Discord
+chon
+hconf
+killall Discord
+mvn clean compile exec:java -Dexec.mainClass="org.texttechnologylab.DockerUnifiedUIMAInterface.DUUIComposer"
+hconf
+reboot
+hyprshade on blue-light-filter
+nvim .config/rofi/hyde_config.rasi
+poweroff
+hyprshade on blue-light-filter
+hconf
+nvim .config/rofi/hyde_config.rasi
+cava
+yeet cava
+pacseek
+cava
+yeet cava
+yeet cava-debug
+hconf
+pacman -Q | grep pipewi
+pacman -Q | grep wireplum
+pacman -Q | grep xdg-desktop
+pacseek
+btop
+pacman -Q | grep xdg-desktop
+pacseek
+hconf
+xdg-desktop-portal-hyprland
+yeet xdg-desktop-portal-gnome
+btop
+systemctl --user status xdg-desktop-portal-hyprland
+systemctl --user status xdg-desktop-portal
+systemctl disable xdg-desktop-portal
+systemctl --user disable xdg-desktop-portal
+systemctl --user disable xdg-desktop-portal
+hyprshade on blue-light-filter
+btop
+pacseek
+pacman -Q | grep xdg-desktop
+yeet xdg-desktop-portal
+pacseek
+pacman -Qi xdg-desktop-portal-hyprland-git
+pacman -Q | grep xdg-desktop
+yeet xdg-desktop-portal
+reboot
+hyprshade on blue-light-filter
+hyprshade off
+systemctl --user statuis xdg-desktop-portal
+systemctl --user status xdg-desktop-portal
+systemctl --user status xdg-desktop-portal-hyprland
+killall Discord
+pacman -Q | grep gbm
+pacseek
+yay -S wayland-cleint
+yay -S wayland-client
+pacseek
+hconf
+hyprshade on blue-light-filter
+hconf
+hyprshade on blue-light-filter
+reboot
+./satpaper.sh
+reboot
+hyprctl clients
+killall Discord
+mvn clean compile package install -DskipTests
+killall Discord
+pacman -Q | grep xdg-desktop
+git clone git@github.com:filipfit/DockerUnifiedUIMAInterface-COREReader.git
+mvn clean compile package install -DskipTests
+mvn clean compile package install -DskipTests
+mvn clean compile package install -DskipTests
+pwoeroff
+poweroff
+update
+update
+reboot
+btop
+cd Downloads
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-7,S01E07,343022"
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-7,S01E07,343022"
+hyprshade on blue-light-filter
+killall Discord
+hyprshade on blue-light-filter
+btop
+hyprshade on blue-light-filter
+mvn clean compile package install -DskipTests
+reboot
+cupsd --help
+sudo cupsd --help
+mvn clean compile package install -DskipTests
+git clone git@github.com:filipfit/DockerUnifiedUIMAInterface-COREReader.git
+git clone git@github.com:filipfit/DockerUnifiedUIMAInterface-COREReader.git
+history | grep hyprctl
+mvn clean compile package install -DskipTests
+hyprctl kill
+mvn -version
+update
+btop
+fzf /
+fzf
+fzf 
+fzf
+fzf
+fzf
+reboot
+mvn clean compile package install -DskipTests
+mvn clean compile package install -DskipTests
+mvn clean compile package install -DskipTests
+poweroff
+update
+mvn clean compile package install -DskipTests
+mvn clean compile package install -DskipTests
+hyprshade on blue-light-filter
+mvn clean compile package install -DskipTests
+mvn build
+mvn clean compile package install -DskipTests
+mvn clean compile package install -DskipTests
+mvn clean compile -DskipTests
+mvn clean compile -DskipTests
+mvn clean compile -DskipTests
+mvn clean compile -DskipTests
+mvn clean compile
+clean compile
+mvn clean compile
+reboot
+echo $CLASSPATH
+poweroff
+hyprshade on blue-light-filter
+cd Programming
+git clone git@github.com:texttechnologylab/UIMATypeSystem.git
+cd UIMATypeSystem
+git checkout uima-3
+idea .
+hyprshade on blue-light-filter
+mvn clean compile
+mvn clean compile
+mvn clean compile
+mvn jcasgen:generate
+hyprshade on blue-light-filter
+pacman -Q | grep rofi
+which rofi
+nvim
+cd .config/i3
+ls -a
+nvim config
+hconf
+mvn jcasgen:generate
+nvim
+pacseem
+pacseek
+nvim .config/i3/config
+nvim .config/i3/config
+nvim .config/i3/config
+nvim .config/i3/config
+pacseek
+brave
+xrandr
+xrandr --output DP-2 --auto --left-of DP-4
+logout
+xrandr --output DP-2 --auto --left-of DP-4
+fzf 
+nvim ~/.xprofile
+ls -a
+sudo nvim /etc/X11/xorg.conf
+brave
+Xorg :0 -configure
+ls -a /root/
+sudo ls -a /root/
+sudo Xorg :0 -configure
+sudo ls -a /root/
+sudo mv /root/xorg.conf.new /etc/X11/xorg.conf
+sudo ls -a /etc/X11
+nvim /etc/X11
+nvim /etc/X11/xorg.conf
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+xrandr
+xrandr
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+xrandr
+sudo systemctl restart --now display-manager
+killall Discord
+nvidia-smi
+xrandr
+clear
+xrandr --listproviders
+xrandr --output DP-2 --rate 144
+xrandr --output DP-4 --rate 144
+xrandr
+xrandr --output DP-2 --mode 2560x1440 --rate 143.97
+xrandr --output DP-4 --rate 144
+xrandr --output DP-4 --rate 144.00
+xrandr --output DP-4 --mode 1920x1080 --rate 144.00
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+xradnr
+xrandr
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+sudo nvim /etc/X11/xorg.conf
+xradnr
+xrandr
+xrandr
+xrandr
+sudo nvim /etc/X11/xorg.conf
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+xrandr
+xrandr
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+sudo nvim /etc/X11/xorg.conf
+xrandr
+clear
+xrandr query
+xrandr --query
+nvidia-xconfig --help
+sudo nvidia-xconfig -s --no-logo --no-composite --no-dynamic-twinview --force-generate --output-xconfig=/home/filip/xorg.conf
+nvidia-xconfig
+sudo nvidia-xconfig
+sudo nvim /etc/X11/xorg.conf
+sudo nvidia-xconfig --help
+sudo nvidia-xconfig --no-composite --no-dynamic-twinview --force-generate --output-xconfig=/home/filip/xorg.conf
+sudo nvidia-xconfig --output-xconfig=/home/filip/xorg.conf
+fzf
+nvim .local/share/xorg/Xorg.0.log
+crandr
+xrandr
+sudo nvim /etc/X11/xorg.conf
+xrandr --verbose
+xrandr --verbose
+sudo nvim /etc/X11/xorg.conf
+sudo nvim /etc/X11/xorg.conf
+xrandr
+clear
+xrandr --verbose
+sudo systemctl restart --now display-manager
+xrandr --verbose
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+xrandr --verbose
+xrandrt
+xrandr
+clear
+xrandr --verbose
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+xrandr --output DP-4 --mode 1920x1080 --rate 144.00
+xrandr --output DP-2 --mode 2560x1440 --rate 143.97
+xrandr --verbose
+xrandr --verbose
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+sudo nvim /etc/X11/xorg.conf
+xrandr --verbose
+xrandr --verbose
+sudo nvim /etc/X11/xorg.conf
+sudo systemctl restart --now display-manager
+pacseek
+pacseek
+pacseek
+autorandr
+autorandr --help
+autorandr --detected
+autorandr --config
+pacseek
+sudo nvim /etc/X11/xorg.conf
+poweroff
+reboot
+history | grep xrandr
+xrandr --output DP-2 --mode 2560x1440 --rate 143.97
+xrandr --output DP-4 --mode 1920x1080 --rate 144.00
+rofi
+rofi -show
+killall Discord
+xev 
+pacseek
+xev
+xev
+nvim .config/i3/config
+nvim .config/i3/config
+poeroff
+poweroff
+pacseek
+xcape --help
+xcape
+sudo systemctl status capsule.slice
+nvim .config/i3/config
+xev
+btop
+pkill --help
+hconf
+hconf
+xcape 'Super_L=Super_L+d'
+xcape -e 'Super_L=Super_L+d'
+xcape -e 'Super_L=Super_L|d'
+nvim .config/i3/config
+btop
+dmenu_run
+dmenu
+nvim temp.sh
+./temp.sh
+./temp.sh
+nvim temp.sh
+./temp.sh.
+./temp.sh
+./temp.sh
+dmenu_run
+pkill -x Discord
+pkill -x dmenu
+sleep  3
+sleep 3 \ pkill -x dmenu
+sleep 3 \\
+pkill -x dmenu
+touch temp.sh
+chmod +x temp.sh
+nvim temp
+./temp.sh
+nvim temp
+./temp.sh
+ls -a
+chmod +x temp.sh
+nvim temp.sh
+rm temp
+nvim temp
+nvim temp.sh
+./temp.sh
+nvim temp.sh
+nvim temp.sh
+./temp.sh
+./temp.sh
+nvim .
+nvim .config/i3/config
+nvim .config/i3/config
+nvim .config/i3/toggle-dmenu.sh
+nvim .config/i3/toggle-dmenu.sh
+./.config/i3/toggle-dmenu.sh
+clear
+cd .config/i3
+chmod 777 toggle-dmenu.sh
+/home/filip/.config/i3/toggle-dmenu.sh
+nvim .config/i3/config
+pacseek
+nvim .config/i3/toggle-dmenu.sh 
+xev
+xcape -e 'Super_L=Super_L|d'
+./.config/i3/toggle-dmenu.sh
+./.config/i3/toggle-dmenu.sh
+nvim ./.config/i3/toggle-dmenu.sh
+nvim ./.config/i3/toggle-dmenu.sh
+dmenu_run
+nvim ./.config/i3/toggle-dmenu.sh
+xev
+xcape -e 'Super_L=Super_L|F1'
+xev
+nvim ./.config/i3/toggle-dmenu.sh
+nvim .config/i3/config
+nvim .config/i3/config
+nvim .config/i3/config
+nvim .config/i3/config
+pacseek
+brave
+pacseek
+nvim .config/i3/config
+i3-dump-log
+poweroff
+nvim .config/i3/config
+nvim .config/i3/config
+rofi --helop
+rofi --help
+rofi --help | grep kb-cancel
+dmenu --help
+mvn clean compile -DskipTests
+mvn jcasgen:generate
+mvn clean compile -DskipTests
+mvn jcasgen:generate
+history | grep "git cloene"
+history
+git clone git@github.com:filipfit/DockerUnifiedUIMAInterface-COREReader.git
+xrandr --output DP-4 --mode 1920x1080 --rate 144.00
+xrandr --output DP-2 --mode 2560x1440 --rate 143.97
+rebootr
+reboot
+touch 144.sh
+chmod -x 144.sh
+nvim 144.sh
+./144.sh
+sudo chmod -x 144.sh
+./144.sh
+sudo chmod 777 144.sh
+./144.sh
+xev
+xev
+xev
+nvim .config/i3/config
+nvim .config/i3/config
+i3-msg
+i3-msg --help
+xinput list
+xinput list-props 11
+xinput list-props 12
+xinput set-prop "11" "libinput Accel Profile Enabled" 0 1 0
+xinput list-props 11
+xinput list-props 11
+xinput set-prop "11" "libinput Accel Speed" 0.2
+xinput list-props 11
+xinput set-prop "11" "libinput Accel Speed" 1.0
+xinput set-prop "11" "libinput Accel Speed" 0.5
+xinput set-prop "11" "libinput Accel Speed" 0.4
+xinput set-prop "11" "libinput Accel Speed" 0.3
+nvim .config/i3/config
+btop
+btop
+xinput
+pacseek
+pacseel
+pacseek
+xclipboard --help
+systemctl status xclip
+mvn clean compile -Dskiptests
+mvn jcasgen:generate
+mvn clean compile -Dskiptests
+mvn jcasgen:generate
+mvn clean compile -DskipTests
+mvn jcasgen:generate
+mvn compile -DskipTests
+mvn clean compile -DskipTests
+mvn clean compile -DskipTests
+reboot
+history | grep xinput
+./144.sh
+xinput 11
+xinput list-props 11
+xinput
+xinput list-props Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+./144.sh
+ls -a
+cat .xsessionrc
+touch .xinitrc
+mv .xsessionrc .xinitrc
+cat .xinitrc
+ls -a
+xrdb .xinitrc
+nvim .xinitrc
+mv .xinitrc .xprofile
+chmod -x .xprofile
+144.sh >> .xprofile
+cat 144.sh >> .xprofile
+cat .xprofile
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+cat .xprofile
+nvim .xprofile
+gedit .xprofile
+xev
+btop
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+mvn jcasgen:generate
+poweroff
+setxkbmap eu
+nvim .xprofile
+nvim .xprofile
+poweroff
+gsettings set org.gnome.desktop.interface gtk-theme Adwaita-dark
+pacseek
+nm
+nm-online 
+nm-online --help
+ls /usr/share/themes
+nvim .config/gtk-3.0/settings.ini
+xset --help
+clear
+which xsettings
+pacseek
+xsettingsd --help
+sudo systemctl status xsettingsd
+xsettingsd
+mkdir ~/.config/xsettingsd
+touch ~/.config/xsettingsd/xsettignsd.conf
+xsettingsd
+ls .config/xsettingsd
+mv .config/xsettingsd/xsettignsd.conf .config/xsettingsd/xsettingsd.conf
+xsettingsd
+nvim .config/i3/config
+yeet xsettingsd
+rofi -show drun
+cat .config/gtk-3.0/settings.ini
+pacseek
+pacseek
+nvim .zshrc
+v
+code
+cd Down
+cd i3
+cd Down
+chmod -x anyconnect-linux64-4.10.00093-core-vpn-webdeploy-k9.sh
+./anyconnect-linux64-4.10.00093-core-vpn-webdeploy-k9.sh
+sudo chmod -x anyconnect-linux64-4.10.00093-core-vpn-webdeploy-k9.sh
+./anyconnect-linux64-4.10.00093-core-vpn-webdeploy-k9.sh
+chmod 777 anyconnect-linux64-4.10.00093-core-vpn-webdeploy-k9.sh
+./anyconnect-linux64-4.10.00093-core-vpn-webdeploy-k9.sh
+sudo ./anyconnect-linux64-4.10.00093-core-vpn-webdeploy-k9.sh
+/opt/cisco/anyconnect/bin/vpnui
+diff 
+diff "/home/filip/Programming/UIMA-Project/out/24111.xmi" "/home/filip/Programming/DockerUnifiedUIMAInterface-COREReader/TEMP_out/24111.xmi"
+v -d "/home/filip/Programming/UIMA-Project/out/24111.xmi" "/home/filip/Programming/DockerUnifiedUIMAInterface-COREReader/TEMP_out/24111.xmi"
+v -d "/home/filip/Programming/UIMA-Project/out/24111.xmi" "/home/filip/Programming/DockerUnifiedUIMAInterface-COREReader/TEMP_out/24111.xmi"
+v --help
+v "/home/filip/Programming/UIMA-Project/out/24111.xmi" "/home/filip/Programming/DockerUnifiedUIMAInterface-COREReader/TEMP_out/24111.xmi"
+v -d "/home/filip/Programming/UIMA-Project/out/24111.xmi" "/home/filip/Programming/DockerUnifiedUIMAInterface-COREReader/TEMP_out/24111.xmi"
+code .
+hconf
+hconf
+pacseek
+pacman -Q | grep rofi
+pacseek
+pacseek
+rofi -show drun
+rofi -show drun
+systemd-nspawn --helop
+systemd-nspawn --help
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+cd i3
+nvim config
+history | grep xinput
+xinput set-prop "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse" "libinput Accel Speed" 0.3
+xinput set-prop "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse" "libinput Accel Profile Enabled" 0 1 0
+v 144.sh
+update
+update
+pacseek
+clear
+updatre
+update
+v .config/i3/config
+reboot
+history | grep xinput
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+yay -S meson ninja
+v .config/i3/config
+braev
+echo $XDG_SESSION_TYPE
+sh --helpo
+sh --help
+sh -c help
+chromium
+/usr/bin/chromium
+sh '[ "$XDG_SESSION_TYPE" = "wayland" ] && chromium --ozone-platform=wayland || chromium'
+sh '[ "$XDG_SESSION_TYPE" = "wayland" ] && /usr/bin/chromium --ozone-platform=wayland || /ust/bin/chromium'
+sh '[ "$XDG_SESSION_TYPE" = "wayland" ] && /usr/bin/chromium --ozone-platform=wayland || /usr/bin/chromium'
+dmenu_run
+pcaseek
+pacseek
+xkill
+xkill
+which sh
+sh '[ "$XDG_SESSION_TYPE" = "wayland" ] && echo "wayland" || echo "not wayland" '
+sh -c '[ "$XDG_SESSION_TYPE" = "wayland" ] && echo "wayland" || echo "not wayland" '
+sh -c '[ "$XDG_SESSION_TYPE" = "wayland" ] && /usr/bin/chromium --ozone-platform=wayland || /usr/bin/chromium'
+/opt/rofi-xorg/bin/rofi -show drun
+fzf
+fzf
+mkdir -p
+mkdir --help
+git clone git@github.com:davatorium/rofi.git
+cd rofi
+git checkout next
+mkdir -p /opt/rofi-xorg
+sudo mkdir -p /opt/rofi-xorg
+./configure --prefix=/opt/rofi-xorg
+meson setup build --prefix=/opt/rofi-xorg
+meson compile -C build
+sudo meson install -C build
+/opt/rofi-xorg/bin/rofi -show drun
+/opt/rofi-xorg/bin/rofi -show drun
+dmenu_run
+cd
+rm -r rofi
+ls .local/share/applications
+v .local/share/applications
+/opt/rofi-xorg/bin/rofi -show drun
+update-desktop-database ~/.local/share/applications
+sudo update-desktop-database ~/.local/share/applications
+cd applications
+cd ./.local/share/applications/
+cd
+cd appli
+ls -a
+ls -l chromium.desktop
+nemo .
+sudo chmod -x chromium.desktop
+sudo chmod 777 chromium.desktop
+v /usr/share/applications/chromium.desktop
+cd appli
+cd local/appl
+cd
+cd appli
+v chrim
+v chromium.desktop
+btop
+pacman -Q | grep xlcip
+pacman -Q | grep xclip
+xclipboard --help
+xclipboard -h
+xclipboard
+copyq
+pacseek
+btop
+pacseek
+yeet xorg-xclipboard
+pacseek
+xclip --help
+/opt/rofi-xorg/bin/rofi -show drun
+cd appl
+v chromium.desktop
+v chromium.desktop
+v .
+pacman -Q | grep libsecret
+pacman -Q | grep gnome-libsecret
+pacseek
+gnome-libsecret
+libsecret
+sudo update-desktop-database ~/.local/share/applications
+update-desktop-database ~/.local/share/applications
+cd appli
+v .
+reboot
+pacseek
+reboot
+xrandr
+reboot
+btop
+pacman -Q | grep rofi
+reboot
+btop
+killall Discord
+v ./.config/i3/config
+reboot
+setxkbmap eu
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+update
+reboot
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+poweroff
+obsidian --class scratchpad,scratchpad
+xprop
+xprop | grep scratch
+i3-input --help
+v ./.config/i3/config
+xprop
+xprop
+xprop | grep class
+xprop
+i3-msg "worspace scratchpad; exec obsidian; workspace 1"
+i3-msg "workspace scratchpad; exec obsidian; workspace 1"
+i3-msg "workspace scratchpad; exec obsidian"
+poweroff
+reboot
+fzf TEMP_in
+fzf
+pacman -Q | grep cron
+fastfetch
+reboot
+pacseek
+redshift --help
+redshift -h
+systemctl status redshift
+sudo systemctl status redshift
+redshift
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+reboot
+cd Warpinator
+cd taka
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-10,S01E10,331508"
+cd taka
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-9,S01E09,284138"
+cd Downloads/tak
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-8,S01E08,284104"
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-12,S01E12,331506"
+cd Downloads/taka-historia
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-7,S01E07,343022"
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-11,S01E11,331507"
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-11,S01E11,331507"
+fzf /
+fzf --help
+fzf -x
+fzf
+fzf
+fzf | cat
+cut --help
+fd --help
+fd Downloads
+fd hyprconf
+fd hypr
+v ./.config/i3/config
+redshift
+redshift --help
+redshift -h
+redshift -l -h
+systemctl status redshift
+systemctl status redshift.service
+redshift -l list
+redshift -l geoclue2
+redshift -l 50.11552:8.68417
+redshift -h
+nohup redshift -l 50.11552:8.68417
+nohup redshift -l 50.11552:8.68417 &
+btop
+systemctl status geoclue.service
+pacman -Q | grep geoclue
+yeet geoclue
+pacseek
+btop
+btop
+fzf
+fzf --zsh
+v .zshrc
+v .zshrc
+cat 144.sh 144.sh
+builtin cd -- /home/filip/.jdks
+builtin --help
+cd
+pwoeroff
+poweroff
+v .zshrc
+v .config/i3/config 
+v .config/i3/config 
+reboot
+pacseek
+top
+atop
+yeet atop
+pacseek
+update
+zellij
+zellij
+zellij run
+zellij
+zellij
+pacseek
+eva
+pacseek
+echo $ZELLIJ_CONFIG_DIR
+btop
+zellij
+pacseek
+hconf
+fzf
+zellij
+v mimeapp
+v mimeapps.list
+xdg-mime default brave-browser.desktop x-scheme-handler/http
+xdg-mime default brave-browser.desktop x-scheme-handler/https
+v mimeapps.list
+obsidian
+reboot
+ls -a .config/zellij
+cd zelli
+v config.kdl
+cd /home/filip/.local/share/applications/brave-browser.desktop\
+
+cd /home/filip/.local/share/applications
+ls -a
+cat brave-browser.desktop
+fzf
+fzf
+v .config/mimeapps.list
+xdg-mime default /home/filip/.local/share/applications/brave-browser.desktop x-scheme-handler/http
+xdg-mime default /home/filip/.local/share/applications/brave-browser.desktop x-scheme-handler/https
+obsidian
+cd /home/filip/.local/share/applications
+cat brave-browser.desktop
+pacseek
+v .config/mimeapps.list
+reboot
+pacseek
+pacseek
+pacseek
+cd appli
+cat chromium.desktop
+v .config/mimeapps.list
+xdg-mime 144.sh
+pacseek
+mimeo 144.sh
+mimeo https://
+xdg-mime https://
+mimeo https://
+brave
+v .local/share/applications/defaults.list
+mimeo mimeapps.list
+mimeo --mimeapps-list
+mimeo app2desk brave
+mimeo --app2desk brave
+mimeo --finddesk brave-browser.desktop
+mimeo --mimetype https://
+mimeo --prefer x-scheme-handler/https /home/filip/.local/share/applications/brave-browser.desktop
+xdg-settings set default-web-browser /home/filip/.local/share/applications/brave-browser.desktop
+xdg-settings set default-web-browser brave-browser.desktop
+xdg-settings set default-url-scheme-handler irc brave-browser.desktop
+reboot
+xdg-open https://google.com
+brave https://google.com
+v .local/share/applications/brave-browser.desktop
+v .local/share/applications/brave-browser.desktop
+v .local/share/applications/brave-browser.desktop
+cd appli
+ls
+./brave-browser.desktop https://google.com
+sudo ./brave-browser.desktop https://google.com
+v brave-browser.desktop
+xdg-open https://google.com
+echo $XDG_SESSION_TYPE
+cat /usr/share/applications/brave-browser.desktop
+xdg-mime query default x-scheme-handler/https
+xdg-mime query default x-scheme-handler/http
+cd appl
+v brave-browser.desktop
+zellij
+xdg-open https://google.com
+v brave-browser.desktop
+update-desktop-database ~/.local/share/applications
+v brave-browser.desktop
+update-desktop-database ~/.local/share/applications
+v brave-browser.desktop
+update-desktop-database ~/.local/share/applications
+xdg-open https://google.com
+v brave-browser.sh
+chmod 777 brave-browser.sh
+nemo .
+nemo .
+v .config/MYCONFIG/desktop-file-scripts/brave-browser.sh
+v .local/share/applications/brave-browser.desktop
+killall Discord
+reboot
+v .local/share/applications/brave-browser.desktop
+cd Prog
+ls -a
+mkdir deno-test
+code deno-test
+pacseek
+curl -fsSL https://deno.land/install.sh | sh
+deno --version
+deno --version
+deno --help
+deno init
+deno run dev
+deno install
+deno test
+deno run dev
+v .local/share/applications/brave-browser.desktop
+xset --help
+xset r rate 300 30
+xset r rate 300 50
+xset r rate 200 50
+xset --help
+v .local/share/applications/brave-browser.desktop
+xset r rate 200 40
+v .local/share/applications/brave-browser.desktop
+killall Discord
+poweroff
+xset r rate 200 40
+v .config/i3/config 
+pacseek
+neovide
+yeet neovide
+v
+pactl --help
+pactl next
+pactl play next
+pactl @DEFAULT_SINK@
+v .config/i3/config 
+xset r rate 250 40
+qpaeq
+pactl load-module module-dbus-protocol
+pactl list
+pacseek
+sudo systemctl status playerctld
+playerctl daemon
+playerctl -h
+playerctld -h
+playerctld daemon
+systemctl status playerctld.service
+playerctl next
+playerctl previos
+playerctl previous
+playerctl previous
+v .config/i3/config 
+reboot
+update
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+v .xprofile
+v .config/i3/config 
+pacman -Q | grep mutter
+pacseek
+pacseek
+yeet mutter
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+pacseek
+nvim
+vim
+nvim 14
+nvim 144.sh
+nvim 144.sh
+poweroff
+poweroff
+reboot
+cat
+swaync
+swaync test
+pacseek
+dunst --help
+systemctl status dunst
+dunst
+dunst -startup_notification
+v .config/i3/config 
+nohup dunst &
+btop
+dunst
+btop
+nohup dunst &
+btop
+dunst --help
+dunst -v
+reboot
+cat
+./initial.sh
+update
+v .config/i3/config 
+v initial.sh
+./initial.sh
+cd appl
+ls -a
+nvim code.desktop
+pwoeroff
+poweroff
+poweroff
+reboot
+pulse
+pacseek
+pacseek
+pacseek
+pacseek
+yeet balena-etcher
+pacseek
+ventoy
+sudo lsblk 
+ventoy -i /dev/sde
+sudo ventoy -i /dev/sde
+reboot
+ventoy -i /dev/sde
+sudo lsblk 
+sudo ventoy -i /dev/sde
+ventoy
+sudo ventoy -I /dev/sde
+reboot
+reboot
+reboot
+systemctl status udisks2.service
+btop
+systemctl status udisks2.service
+systemctl status -v udisks2.service
+systemctl status -h
+clear
+reboot
+tail -f /proc/1952/fd/1
+sudo tail -f /proc/1952/fd/1
+sudo ls -a /proc/1952/fd/
+sudo tail -f /proc/1952/fd/1
+sudo tail -f /proc/1952/fd/0
+reboot
+btop
+reboot
+systemctl reboot -i
+sudo ventoy -I /dev/sde
+btop
+hconf
+nohup /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+cd appl
+cd
+cd i3
+v config
+v config
+v config
+v .config/i3/config 
+df -h
+sudo cp ubuntu-24.04.1-desktop-amd64.iso /run/media/filip/Ventoy/
+sudo cp ubuntu-24.04.1-desktop-amd64.iso /run/media/filip/Ventoy/
+btop
+reboot
+poweroff
+btop
+redshift
+redshift -
+redshift -h
+killall Discord
+pwoeroff
+poweroff
+./Bazecor-1.5.2-x64.AppImage
+chmod -x Bazecor-1.5.2-x64.AppImage
+./Bazecor-1.5.2-x64.AppImage
+chmod +x Bazecor-1.5.2-x64.AppImage
+./Bazecor-1.5.2-x64.AppImage
+nemo ./Downloads
+pacseek
+cd .local/share
+ls -a
+ls -a | grep icons
+ls -a | grep icon
+cd appl
+v brave-browser.desktop
+pacseek
+ls -a | grep gtk
+v .gtkrc-2.0
+cd .co
+cd
+cd con/gtk-3.0
+cd con
+cd gtk-3.0
+ls
+v settings.ini
+lxappearance
+v .xprofile
+v .gtkrc-2.0
+pacseek
+mkdir ~/.icons
+cd .icons
+mkdir ./default
+ls
+cd default
+touch index.theme
+v index.theme
+xdg-icon-resource install --theme Papirus
+pacseek 
+pacseek
+v .gtkrc-2.0
+reboot
+reboot
+i3-sensible-terminal
+v .config/i3/config 
+cd .config
+ls -a | grep kitty
+cd kitty
+ls -a
+v kitty.conf
+git clone git@github.com:adi1090x/rofi.git
+cd rofi
+ls -a
+cat README.md
+cat setup.sh
+fc-cache --help
+cd rofi
+cat setup.sh
+chmod +x setup.sh
+./setup.sh
+cd .con/rofi
+cd .con/rofi
+cd rof
+ls -a
+nohup nemo . &
+hconf
+v .config/i3/config 
+rofi -show drun
+rofi -show drun
+v .config/i3/config 
+rofi -show drun
+rofi -show drun -config ~/.config/rofi/config.rasi
+cd config rasi
+cd conf rasi
+cd .conf rasi
+cd confi
+cd rofi
+cd launchers/type-1/
+ls -a
+cat launcher.sh
+v launcher.sh
+./launcher.sh
+pacseek
+v .config/i3/config 
+cd launcher
+z launchers
+cd conf
+cd rofi launchers
+cd rofi
+cd launchers/type-1/
+v launcher.sh
+ls -a
+v style-5.rasi
+cd
+cd .config
+ls | grep comptoon
+ls | grep compton
+picom -h
+picom --config
+fzf
+cd con
+cd picom
+v picom.conf
+picom
+v .config/i3/config 
+zoxide query -l -s | less
+cd config zellij
+cd
+cd rofi
+cd
+zoxide query -l -s | less
+cd local appl
+zi
+cd local
+cd .local
+rofi -v
+rofi -dump-config
+v .config/i3/config 
+cd conf rofi
+cd launchers/type-1/
+ls -a
+v launcher.sh
+v style-5.rasi
+reboot
+picom -h
+cd picom
+v picom.conf
+cd launchers
+cd rofi
+cd launchers
+cd type-5
+cd ..
+cd type-1
+v style-5.rasi
+v style-5.rasi
+v style-5.rasi
+v .config/rofi/launchers/type-1/style-5
+v .config/rofi/launchers/type-1/style-5.rasi
+ls -a
+cd shared
+cd ..
+cd rofi
+ls -a
+cd launchers
+ls -a
+v .config/rofi/launchers/type-1/style-5.rasi
+cd
+v .config/rofi/launchers/type-1/style-5.rasi
+dunst -h
+mkdir .config/dunst
+cp /etc/dunst/dunstrc ~/.config/dunst/
+v .config/dunst/dunstrc
+dunst -h
+dunst -startup_notification
+btop 
+dunst --config
+dunst -h
+v .config/dunst/dunstrc
+v .config/i3/config 
+v .config/i3/config 
+killall Discord
+v .config/rofi/launchers/type-1/style-5.rasi
+killall Discord
+killall Discord
+mvn jcasgen:generate
+mvn jcasgen:generate
+reboot
+kitty --help
+kitty --help | grep trail
+yeet kitty
+pacseek
+pacseek
+reflector --country 'Germany' --save '/etc/pacman.d/mirrorlist' --protocol https --latest 5
+sudo reflector --country 'Germany' --save '/etc/pacman.d/mirrorlist' --protocol https --latest 5
+update
+update
+pacseek
+yeet kitty
+pacseek
+./initial.sh
+kitty --help | grep trail
+v .config/kitty/kitty.conf
+fkje kfj lwejf                                      
+v .config/kitty/kitty.conf
+v
+v .config/kitty/kitty.conf
+hconfn
+hconf
+v .config/kitty/kitty.conf
+hconf
+v .config/kitty/kitty.conf
+hconf
+v .config/kitty/kitty.conf
+yeet alacritty
+pacman -Qdtq
+mold --help
+man mold
+ld --help
+man ld
+pacman -Qdtq
+pacman -Q
+v
+poweroff
+ v .zshrc
+windows
+sudo update-grub
+reboot
+sudo lsblk
+sudo fdisk -l
+reboot
+./initial.sh
+reboot
+killall Discord
+poweroff
+killall Discord
+./initial.sh
+update
+reboot
+reboot
+pacseek
+flameshot
+flameshot
+killall flameshot
+flameshot gui
+flameshot config
+flameshot full
+flameshot gui
+flameshot gui
+windows
+killall Disc
+killall Discord
+reboot
+pacseek
+yazi
+yazi --help
+yazi --chooser-file
+poweroff
+windows
+./satpaper.sh
+pacseek
+y
+yazi
+yazi
+poweroff
+pacseek
+./initial.sh
+xinput list-props Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse
+xinput list-props "Corsair CORSAIR SCIMITAR RGB ELITE Gaming Mouse"
+pwoeroff
+poweroff
+btop
+sudo systemctl status vpnagentd.service
+pacseek
+df
+duf
+clear
+duf
+duf
+duf
+duf
+duf
+duf
+duf
+duf
+duf
+reboot
+pacseek
+nmcli
+nmtui
+iwctl
+sudo systemctl status NetworkManager.service
+sudo systemctl start NetworkManager.service
+sudo systemctl status NetworkManager.service
+nmcli
+nmtui
+sudo reflector --country 'Germany' --save '/etc/pacman.d/mirrorlist' --protocol https --latest 5
+updarte
+update
+sudo reflector --country 'Germany' --save '/etc/pacman.d/mirrorlist' --protocol https --latest 5
+pacseek
+pacseek
+archinstall
+sudo archinstall
+sudo archinstall
+pacseek
+pacseek
+cat /usr/share/doc/archiso/README.profile.rst
+nemo /usr/share/doc/archiso/README.profile.rst
+cp -r /usr/share/archiso/configs/releng/* archlive
+cd archlive
+v packages.x86_64
+cd arch
+v packages.x86_64
+pacseek
+killall Discord
+dhcpcd
+mv archinstall/user_configuration.json archlive/airootfs/user_configuration.json
+cp archlive/airootfs/user_configuration.json archinstall/user_configuration.json
+sudo cp archlive/airootfs/user_configuration.json archinstall/user_configuration.json
+cp archinstall/user_credentials.json archlive/airootfs/user_credentials.json
+sudo cp archinstall/user_credentials.json archlive/airootfs/user_credentials.json
+fzf
+fzf
+code code.desktop
+cd archlive
+v profiledef.sh
+sudo systemctl status iwd.service
+sudo systemctl start iwd.service
+sudo systemctl status iwd.service
+iwctl station wlan0 scan
+iwctl station wlan0 get-networks
+cat wifi.sh
+iwctl --passphrase 19185031841842593450 station wlan0 connect FRITZ_filip
+iwctl station wlan0 scan
+iwctl station wlan0 get-networks
+iwctl device list
+pacseek
+rfkill list
+v wifi.sh
+chmod +x wifi.sh
+cp wifi.sh Documents/archlive/airootfs/root/wifi.sh
+ls Documents/archlive/airootfs/root/wifi.sh
+cd Documents/archlive/airootfs/root/wifi.sh
+ls Documents/archlive/airootfs/root/
+nemo Documents/archlive/airootfs/root/
+yeet iwd
+mkarchiso --help
+mkarchiso -v -w ~/Documents/archiso-work -o ~/Documents ~/Documents/archlive
+sudo mkarchiso -v -w ~/Documents/archiso-work -o ~/Documents ~/Documents/archlive
+pacman -Syu
+sudo pacman -Syu
+sudo chmod --help
+sudo chmod -R 755 archiso-work
+sudo chmod -R 755 iso-out
+sudo mkarchiso -v -w archiso-work -o iso-out archlive
+sudo chmod -R 755 archlive
+sudo mkarchiso -v -w archiso-work -o iso-out archlive
+sudo chmod -R 777 archlive
+sudo mkarchiso -v -w archiso-work -o iso-out archlive
+sudo chmod -R 777 archiso-work
+sudo mkarchiso -v -w archiso-work -o iso-out archlive
+sudo mkarchiso -v -w archiso-work -o iso-out archlive
+sudo mkarchiso -v -w archiso-work -o iso-out archlive
+cd Documents
+sudo mkarchiso -v -w archiso-work -o iso-out archlive
+sudo cp -r /usr/share/archiso/configs/releng /home/filip/Documents/archiso
+./initial.sh
+sudo chmod -R 777 Documents
+mkdir --help
+sudo mkdir ./archiso-work
+sudo mkdir ./iso-out
+cd archiso
+sudo nvim packages.x86_64
+cd ..
+df -h
+df /home/filip/Documents
+sudo mkarchiso -v -w ~/Documents/archiso-work -o ~/Documents/iso-out ~/Documents/archiso
+sudo mkdir /tmp/archiso-tmp
+ls /tmp
+mkarchiso -v -w /tmp/archiso-tmp -o ~/Documents/iso-out ~/Documents/archiso
+sudo mkarchiso -v -w /tmp/archiso-tmp -o ~/Documents/iso-out ~/Documents/archiso
+pacseek
+./balenaEtcher-1.7.9-ia32.AppImage
+chmod -x balenaEtcher-1.7.9-ia32.AppImage
+./balenaEtcher-1.7.9-ia32.AppImage
+sudo chmod -x balenaEtcher-1.7.9-ia32.AppImage
+./balenaEtcher-1.7.9-ia32.AppImage
+chmod +x balenaEtcher-1.7.9-ia32.AppImage
+./balenaEtcher-1.7.9-ia32.AppImage
+./Downloads/balenaEtcher-1.7.9-ia32.AppImage
+chmod a+x balenaEtcher-1.7.9-ia32.AppImage
+cd Downloads
+chmod a+x balenaEtcher-1.7.9-ia32.AppImage
+./balenaEtcher-1.7.9-ia32.AppImage 
+cd Downloads
+./balenaEtcher-1.7.9-ia32.AppImage
+cd balenaEtcher-linux-x64
+./balena-etcher
+reboot
+pacseek
+pacseek
+pacseek
+xkill
+pacseek
+pacseek
+yeet dconf
+clear
+pacman -Q | gdm
+pacman -Q | grep gdm
+yeet gdm-settings
+pacseek
+archinstall --creds user_credentials.json --config user_configuration.json
+sudo archinstall --creds user_credentials.json --config user_configuration.json
+pwoeroff
+poweroff
+sudo fdisk -l
+sudo fdisk -l | grep sse
+sudo fdisk -l | grep ssk
+clear
+fdisk -l
+sudo fdisk -l
+cfdisk /dev/sde
+sudo cfdisk /dev/sde
+./balena-etcher
+fdisk -l
+sudo fdisk -l
+sudo fdisk -l
+cfdisk /dev/sde
+sudo cfdisk /dev/sde
+sudo fdisk -l
+mkfs.exfat /dev/sde1
+sudo mkfs.exfat /dev/sde1
+ls -a /media
+mkdir /media/usb-drive
+mkdir -p /media/usb-drive
+sudo ls -a /media
+sudo mkdir -p /media/usb-drive
+mount /dev/sde1 /media/usb-drive
+sudo mount /dev/sde1 /media/usb-drive
+sudo cfdisk /dev/sde
+sudo fdisk -l
+sudo mount /dev/sde1 /media/usb-drive
+umount /dev/sde1
+sudo umount /dev/sde1
+cd Documents
+chmod 777 user_credentials.json
+sudo chmod 777 user_credentials.json
+sudo chmod 777 user_configuration.json
+pacseek
+sudo fdisk -l
+sudo cfdisk /dev/sde
+sudo fdisk -l
+sudo mkfs.exfat /dev/sde1
+sudo fdisk -l
+sudo mount /dev/sde1 /media/usb-drive
+dmesg
+sudo dmesg
+sudo dmesg | grep sde
+sudo mount /dev/sde1 /media/usb-drive
+sudo cfdisk /dev/sde
+./initial.sh
+pacsee
+pacseek
+sudo reflector --country 'Germany' --save '/etc/pacman.d/mirrorlist' --protocol https --latest 5
+512
+sudo reflector --country 'Germany' --save '/etc/pacman.d/mirrorlist' --protocol https --latest 5
+pacman -Syyu
+sudo pacman -Syyu
+pacseek
+sudo fdisk -l
+ventoy 
+ventoy -i /dev/sde
+sudo ventoy -i /dev/sde
+xprop - root _NET_ACTIVE_WINDOW
+pacseek
+xwininfo -tree -root
+pacman
+pacseek
+xprop - root _NET_ACTIVE_WINDOW
+xprop -root _NET_ACTIVE_WINDOW
+xprop -id 0x620000b
+xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}'
+xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}' | xprop -id
+xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}' | xprop -id $()
+xprop -id | xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}'
+xprop -id $(xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}')
+xprop -id $(xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}') | grep WM_CLASS
+xprop -id $(xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}') | grep WM_CLASS
+xprop -id $(xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}') | grep WM_CLASS(STRING)
+xprop -id $(xprop -root _NET_ACTIVE_WINDOW | awk '{print $5}') | grep "WM_CLASS(STRING)"
+setxkbmap eu
+poweroff
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-14,S01E14,286132" "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-15,S01E15,286221"
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-13,S01E13,331495"
+cd Downloads/taka-historia
+yt-dlp "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-16,S01E16,286140" "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-17,S01E17,287238" "https://vod.tvp.pl/programy,88/korona-krolow-taka-historia-odcinki,283653/odcinek-18,S01E18,287411"
+poweroff
+pyhton
+python
+python
+pacseek
+pacseek
